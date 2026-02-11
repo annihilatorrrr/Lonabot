@@ -1,3 +1,7 @@
+Moved to https://codeberg.org/Lonami/Lonabot. The GitHub repository may be deleted in the future.
+
+---
+
 # lonabots
 several [dumbots](https://github.com/Lonami/dumbot) for telegram.
 
